@@ -6,12 +6,14 @@
 This is a web application built with the MERN stack (MongoDB, Express, React, Node.js) designed to score and evaluate resumes based on specific criteria. The application enables users to upload resumes, which are then analyzed and scored based on various factors, such as keywords, structure, and formatting.
 
 ## Screenshots - 
-<img width="1018" height="585" alt="image" src="https://github.com/user-attachments/assets/6599ca62-2cb3-47e8-b60e-ad7d69c1599e" />
+<img width="891" height="590" alt="image" src="https://github.com/user-attachments/assets/97df8827-fc9e-4c52-90f8-229a3f4f71d7" />
 
 ---
-<img width="1010" height="581" alt="image" src="https://github.com/user-attachments/assets/1e5ca5a3-7b6f-4c4c-8ad9-bfb6ff97a37f" />
+<img width="853" height="521" alt="image" src="https://github.com/user-attachments/assets/a55bd24f-8dba-4af4-b2c5-975418f2c1dc" />
 
 ---
+<img width="843" height="589" alt="image" src="https://github.com/user-attachments/assets/165c315b-c152-40c5-9975-86c11007082c" />
+
 
 ## Features
 
