@@ -44,7 +44,7 @@ This is a web application built with the MERN stack (MongoDB, Express, React, No
    ```bash
    git clone https://github.com/ArjunJagdale/MERN-STACK-RESUME-SCORE.git
    cd MERN-STACK-RESUME-SCORE
-````
+   ```
 
 2. **Backend Setup:**
 
@@ -113,4 +113,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 This project is licensed under the MIT License.
 
 This `README.md` provides a detailed guide for setting up and running the MERN stack resume scorer app. If you need additional details or modifications, let me know!
-```
