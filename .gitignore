@@ -1,0 +1,10 @@
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# Optional: log files
+*.log
+
+# Optional: OS files
+.DS_Store
+Thumbs.db
